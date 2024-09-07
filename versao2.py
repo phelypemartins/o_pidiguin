@@ -46,8 +46,8 @@ class MyApp(Ui_MainWindow, QMainWindow):
 
 
         # Informações de Login
-        EMAIL = 'comercial03@lupafiscal.com.br'
-        PASSWORD = 'Akiklijim@1'
+        EMAIL = '****************'
+        PASSWORD = '*****************'
 
         driver = webdriver.Chrome()
         driver.get('https://plat.econodata.com.br/?_gl=1*aefotu*_gcl_au*MzgwNDM1MTQyLjE3MjQ5NzUxNTM.*_ga*MTk3MTAyMzk5MS4xNzI0OTc1MTU0*_ga_BFMKLBFXM8*MTcyNDk3NTE1My4xLjAuMTcyNDk3NTE1My42MC4wLjA.#/login')
