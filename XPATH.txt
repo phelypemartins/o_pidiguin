@@ -1,0 +1,10 @@
+//div[@id='collapse-resumo']
+'//div[@class="tw-w-full tw-mb-8 tw-px-2"]'
+'CNPJ //div[@class="table-font-sm mb-0"]'
+
+resumo '//div[@class="tw-w-full tw-mb-8 tw-px-2"]'
+botão fechar '//i[title"Fechar detalhes"]'
+
+endereço '//div[@class="d-flex flex-column mb-4 informacoes-empresa"]'
+
+decisor '//div[@class="ellipsis-overflow tw-font-semibold tw-mb-1"]'
