@@ -1,6 +1,6 @@
 ## Mineração de Dados (O Minerador)
 
-O Pidiguin é uma aplicação desenvolvida para raspar/minerar informações de um site. Unindo o código a uma interface gráfica criada no QT Design, o usuário pode ter uma experiência para interagir com o programa, dando a ordem do start.
+O Minerador é uma aplicação desenvolvida para raspar/minerar informações de um site. Unindo o código a uma interface gráfica criada no QT Design, o usuário pode ter uma experiência para interagir com o programa, dando a ordem do start.
 
 ### Bibliotecas utilizadas
 
